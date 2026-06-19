@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-perdido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu aliento perdido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-perdido/) |
+| **Get License** | [Official Music Licensing for Tu aliento perdido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-perdido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3743)
+- [Telegram](https://t.me/AbuSayedMusic/3757)
 
 ---
 
