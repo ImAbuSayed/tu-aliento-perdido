@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu aliento perdido
+
+This log tracks the cryptographic history and versioning for the song **Tu aliento perdido** (tu-aliento-perdido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T01:58:06.508200 | `v1` | `dcb5c5bb2297b6608c0b6db469a88063b1e187e5292f936723e70c5bbdf7a214` | `2fca9a718383e96cbc1f6f5ab924a071c32c6ec7c740923cd656f123dce23318` | `2026-06-20_tu-aliento-perdido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
