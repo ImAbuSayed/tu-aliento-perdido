@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Tu aliento perdido |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-perdido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tu aliento perdido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-perdido/) |
+| **Get License** | [Get a Licensing Quote for Tu aliento perdido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-perdido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tu aliento perdido chocando en mi cuello
-> Bailando en la disco, robándote el beso
-> Me tienes volando, no hay quien me frene
-> Tú tienes el flow que en la calle conviene
+> Tu aliento perdido en mi piel se quedó
+> Bailando en la noche que el tiempo paró
+> Tus labios me llaman, no puedo fingir
+> Esta llama que quema no sabe morir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
