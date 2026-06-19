@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Tu alien
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T01:58:06.508200 | `v1` | `dcb5c5bb2297b6608c0b6db469a88063b1e187e5292f936723e70c5bbdf7a214` | `2fca9a718383e96cbc1f6f5ab924a071c32c6ec7c740923cd656f123dce23318` | `2026-06-20_tu-aliento-perdido-v1.txt` |
+| 2026-06-20T02:21:24.284027 | `v2` | `cd9eb7f2faaa627576adce286618f29c1495dff5f29d44bce13f11d7b1e906a9` | `edaf21c61938712c3e48de14021b6b3724551dbab8542102f596e7f60ed4ca8d` | `2026-06-20_tu-aliento-perdido-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
