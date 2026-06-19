@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-perdido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tu aliento perdido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-perdido/) |
+| **Get License** | [Obtain a Music License for Tu aliento perdido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-perdido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aliento perdido chocando en mi cuello
+> Bailando en la disco, robándote el beso
+> Me tienes volando, no hay quien me frene
+> Tú tienes el flow que en la calle conviene
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
